@@ -1,0 +1,33 @@
+[
+  {
+    "Role": "TCS Flutter Developer",
+    "Experience": "2 to 4 years",
+    "Skills": "Flutter, iOS App Development, Swift",
+    "jd": "We’re looking for a Flutter Developer with a solid hold on iOS development, and a hunger to learn beyond.",
+    "ps": " 5 to 8 lac p.a."
+  },
+  {
+    "Role": "Android Mobile Developer",
+    "Experience": "1 to 3 years",
+    "Skills": "Android, Java, Kotlin",
+    "jd": "Strong technical background needed in Mobile platforms Android(Java), Native development.",
+    "ps": " 4 to 6 lac p.a."
+  },
+  {
+    "Role": "Mobile Technical Director",
+    "Experience": "12 to 20 years",
+    "Skills": "Android Development, iOS App Development, Objective C, Java",
+    "jd": "Demonstrated ability to technically lead a product development team, ability to delegate, influence and get execution done.",
+    "logo": "fair",
+    "ps": " 24 to 35 lac p.a."
+  },
+  {
+    "Role": "Core Java Developer",
+    "Experience": "5 to 10 years",
+    "Skills": "Java, Object Oriented Programming (OOPs), Shell Scripting, SOAP, JSON, Maven, Scala, Big Data, Microservices, Spark, Data Structures, Multithreading, Algorithms",
+    "jd": "We are looking for a Java developer for one of our major investment banking client- who can take ownership for the whole end to end delivery, performing analysis, design, coding, testing and maintenance of large- scale and distributed applications.",
+    "logo": "fair",
+    "ps": " 12 to 20 lac p.a."
+  }
+
+]
